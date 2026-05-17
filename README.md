@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # WordCrafter: TextTwist Challenge
 
 A classic word puzzle game inspired by TextTwist, built with Python and Pygame. Find words using scrambled letters, discover the main word, and advance through challenging levels!
