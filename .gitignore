@@ -32,12 +32,6 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Build and distribution
-build/
-dist/
-*.egg-info/
-.eggs/
-*.egg
 
 # Testing and coverage
 .pytest_cache/
