@@ -1,0 +1,15 @@
+# TextTwist Game Requirements
+# Core game engine
+pygame==2.6.1
+
+# Optional dependencies for enhanced features
+# Uncomment if you want to add sound generation capabilities
+# numpy>=1.21.0
+
+# Development dependencies (uncomment for development)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+
+# Web deployment (if using pygbag for web deployment)
+# pygbag>=0.8.0
