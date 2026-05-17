@@ -169,4 +169,3 @@ If you encounter any issues or have suggestions, please open an issue on the rep
 =======
 # wordcraft
 This is a TextTwist inspired game. It's only a school project and it's good to show some concepts of parallel and distributed computing.
->>>>>>> e45709bebbd2f50b72887035c8a35cfad8adac0f
